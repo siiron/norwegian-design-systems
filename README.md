@@ -26,6 +26,8 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Origo (NRK)](https://static.nrk.no/origo/latest/index.html) | ✔️ |  | ✔️ |  |
 | [Ruter Design System](https://brand.ruter.com) | ✔️ | ✔️ | ✔️ |  |
 | [SpareBank 1 Designsystem](https://design.sparebank1.no/) | ✔️ | ✔️ | ✔️ | [Github](https://github.com/SpareBank1/designsystem) |
+| [Altinn Designsystem](https://altinn.github.io/designsystem-styleguide/) | ✔️ |  |  | [Github](https://github.com/Altinn/DesignSystem/) |
+
 
 ### Notes
 
