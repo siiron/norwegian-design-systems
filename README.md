@@ -1,8 +1,9 @@
-![cover](/cover_NO.png)
+# Norwegian Design Systems
+A curated list of design systems, pattern libraries, and styleguides from Norway.
 
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
 
-A curated collection of design systems in Norway. If you're missing one, please create a [pull request](https://github.com/siiron/norwegian-design-systems/pulls).
+If you're missing one, please make a [pull request](https://github.com/siiron/norwegian-design-systems/pulls), or open an [issue](https://github.com/siiron/norwegian-design-systems/issues).
 
 ---
 
@@ -16,7 +17,7 @@ A curated collection of design systems in Norway. If you're missing one, please 
 ---
 
 <!-- prettier-ignore -->
-| Name | Components | Voice & Tone | Designers Kit | Source code |
+| Name | Components | Voice & Tone | Designers Kit | Source code* |
 | ---- | :--------: | :----------: | :-----------: | :---------: |
 | [DNB Eufemia](https://eufemia.dnb.no/) | ✔️ |  | ✔️ | [Github](https://github.com/dnbexperience/eufemia)
 | [Kognifai Designsystem](https://designsystem.kognif.ai/) | ✔️ |  |  |  |
