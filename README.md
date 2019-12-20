@@ -19,13 +19,16 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 <!-- prettier-ignore -->
 | Name | Components | Voice & Tone | Designers Kit | Source code* |
 | ---- | :--------: | :----------: | :-----------: | :---------: |
-| [Hedwig (Posten/Bring)](https://hedwig-docs.herokuapp.com/) | ✔️ |  | ✔️ | [Github](https://github.com/bring/hedwig)
+| [Altinn Designsystem](https://altinn.github.io/designsystem-styleguide/) | ✔️ |  |  | [Github](https://github.com/Altinn/DesignSystem/) |
 | [DNB Eufemia](https://eufemia.dnb.no/) | ✔️ |  | ✔️ | [Github](https://github.com/dnbexperience/eufemia)
+| [Hedwig (Posten/Bring)](https://hedwig-docs.herokuapp.com/) | ✔️ |  | ✔️ | [Github](https://github.com/bring/hedwig)
 | [Kognifai Designsystem](https://designsystem.kognif.ai/) | ✔️ |  |  |  |
 | [Nav Designsystem](https://design.nav.no/) | ✔️ | ✔️ | ✔️ | [Github](https://github.com/navikt/nav-frontend-moduler) |
 | [Origo (NRK)](https://static.nrk.no/origo/latest/index.html) | ✔️ |  | ✔️ |  |
 | [Ruter Design System](https://brand.ruter.com) | ✔️ | ✔️ | ✔️ |  |
 | [SpareBank 1 Designsystem](https://design.sparebank1.no/) | ✔️ | ✔️ | ✔️ | [Github](https://github.com/SpareBank1/designsystem) |
+
+
 
 ### Notes
 
