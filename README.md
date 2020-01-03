@@ -29,6 +29,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Origo (NRK)](https://static.nrk.no/origo/latest/index.html) | ✔️ |  | ✔️ |  |
 | [Ruter Design System](https://brand.ruter.no) | ✔️ | ✔️ | ✔️ |  |
 | [SpareBank 1 Designsystem](https://design.sparebank1.no/) | ✔️ | ✔️ | ✔️ | [Github](https://github.com/SpareBank1/designsystem) |
+| [Jøkul (Fremtind)](https://fremtind.github.io/jokul/) | ✔️ | ✔️ | ✔️ | [Github](https://github.com/fremtind/jokul) |
 
 ### Notes
 
