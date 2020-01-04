@@ -1,5 +1,4 @@
-# Norwegian Design Systems
-A curated list of design systems, pattern libraries, and styleguides from Norway.
+![cover](/cover_NO.png)
 
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
 
