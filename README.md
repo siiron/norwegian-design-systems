@@ -28,6 +28,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Kognifai Designsystem](https://designsystem.kognif.ai/) | ✔️ |  |  |  |
 | [Lillestrøm Kommune Designsystem](https://design.lillestrom.kommune.no/guide/) | ✔️ | ✔️ |  |  |
 | [Nav Designsystem](https://design.nav.no/) | ✔️ | ✔️ | ✔️ | [Github](https://github.com/navikt/nav-frontend-moduler) |
+| [Norges nasjonalparker](https://designmanual.norgesnasjonalparker.no/) |  | ✔️ |  |  |
 | [Origo (NRK)](https://static.nrk.no/origo/latest/index.html) | ✔️ |  | ✔️ |  |
 | [Regjeringen](http://bak.regjeringen.no/) | ✔️ |  |  |  |
 | [Ruter Design System](https://brand.ruter.no) | ✔️ | ✔️ | ✔️ |  |
