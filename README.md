@@ -21,6 +21,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Altinn Designsystem](https://altinn.github.io/designsystem-styleguide/) | ✔️ |  |  | [Github](https://github.com/Altinn/DesignSystem/) |
 | [DNB Eufemia](https://eufemia.dnb.no/) | ✔️ |  | ✔️ | [Github](https://github.com/dnbexperience/eufemia) |
 | [Entur Designsystem ](https://design.entur.org/) | ✔️ | ✔️ | ✔️ |  |
+| [Equinor Design System](https://eds.equinor.com/) | ✔️ | ✔️ | ✔️ | [Github](https://github.com/equinor/design-system) |
 | [Finnivers (Finn.no)](https://finnivers.finn.no/) | ✔️ | ✔️ | ✔️ |  |
 | [Hedwig (Posten/Bring)](https://hedwig-docs.herokuapp.com/) | ✔️ |  | ✔️ | [Github](https://github.com/bring/hedwig) |
 | [Innovasjon Norge ](https://company-139306.frontify.com/d/YokG7g2Ch3dy/brand) | ✔️ |  | ✔️ |  |
