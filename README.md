@@ -34,6 +34,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Origo (NRK)](https://static.nrk.no/origo/latest/index.html) | ✔️ |  | ✔️ |  |
 | [Regjeringen](http://bak.regjeringen.no/) | ✔️ |  |  |  |
 | [Ruter Design System](https://brand.ruter.no) | ✔️ | ✔️ | ✔️ |  |
+| [Skatteetaten](https://skatteetaten.github.io/frontend-components/) | ✔️ | ✔️ | ✔️ | [Github](https://github.com/Skatteetaten/frontend-components) |
 | [SpareBank 1 Designsystem](https://design.sparebank1.no/) | ✔️ | ✔️ | ✔️ | [Github](https://github.com/SpareBank1/designsystem) |
 | [Vipps](https://brand.vipps.no//) |  | ✔️ | ✔️ |  |
 
