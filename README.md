@@ -29,6 +29,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Jøkul (Fremtind)](https://fremtind.github.io/jokul/) | ✔️ | ✔️ | ✔️ | [Github](https://github.com/fremtind/jokul) |
 | [Kognifai Designsystem](https://designsystem.kognif.ai/) | ✔️ |  |  |  |
 | [Lillestrøm Kommune Designsystem](https://design.lillestrom.kommune.no/guide/) | ✔️ | ✔️ |  |  |
+| [NAF Designsystem](https://merkevare.naf.no/) | ✔️ | ✔️ | ✔️ |  |
 | [Nav Designsystem](https://design.nav.no/) | ✔️ | ✔️ | ✔️ | [Github](https://github.com/navikt/nav-frontend-moduler) |
 | [Norges nasjonalparker](https://designmanual.norgesnasjonalparker.no/) |  | ✔️ | ✔️ |  |
 | [Norsk Tipping Designguide](http://nt-designguide.no/) |  |  | ✔️ |  |
