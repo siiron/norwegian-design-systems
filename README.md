@@ -20,19 +20,23 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | ---- | :--------: | :----------: | :-----------: | :---------: |
 | [Altinn Designsystem](https://altinn.github.io/designsystem-styleguide/) | ✔️ |  |  | [Github](https://github.com/Altinn/DesignSystem/) |
 | [DNB Eufemia](https://eufemia.dnb.no/) | ✔️ |  | ✔️ | [Github](https://github.com/dnbexperience/eufemia) |
+| [Elsa - domstolenes designsystem ](https://design.domstol.no/) | ✔️ | ✔️ | ✔️ |  |
 | [Entur Designsystem ](https://design.entur.org/) | ✔️ | ✔️ | ✔️ |  |
+| [Equinor Design System](https://eds.equinor.com/) | ✔️ | ✔️ | ✔️ | [Github](https://github.com/equinor/design-system) |
 | [Finnivers (Finn.no)](https://finnivers.finn.no/) | ✔️ | ✔️ | ✔️ |  |
 | [Hedwig (Posten/Bring)](https://hedwig-docs.herokuapp.com/) | ✔️ |  | ✔️ | [Github](https://github.com/bring/hedwig) |
 | [Innovasjon Norge ](https://company-139306.frontify.com/d/YokG7g2Ch3dy/brand) | ✔️ |  | ✔️ |  |
 | [Jøkul (Fremtind)](https://fremtind.github.io/jokul/) | ✔️ | ✔️ | ✔️ | [Github](https://github.com/fremtind/jokul) |
 | [Kognifai Designsystem](https://designsystem.kognif.ai/) | ✔️ |  |  |  |
 | [Lillestrøm Kommune Designsystem](https://design.lillestrom.kommune.no/guide/) | ✔️ | ✔️ |  |  |
+| [NAF Designsystem](https://merkevare.naf.no/) | ✔️ | ✔️ | ✔️ |  |
 | [Nav Designsystem](https://design.nav.no/) | ✔️ | ✔️ | ✔️ | [Github](https://github.com/navikt/nav-frontend-moduler) |
 | [Norges nasjonalparker](https://designmanual.norgesnasjonalparker.no/) |  | ✔️ | ✔️ |  |
 | [Norsk Tipping Designguide](http://nt-designguide.no/) |  |  | ✔️ |  |
 | [Origo (NRK)](https://static.nrk.no/origo/latest/index.html) | ✔️ |  | ✔️ |  |
 | [Regjeringen](http://bak.regjeringen.no/) | ✔️ |  |  |  |
 | [Ruter Design System](https://brand.ruter.no) | ✔️ | ✔️ | ✔️ |  |
+| [Skatteetaten](https://skatteetaten.github.io/frontend-components/) | ✔️ | ✔️ | ✔️ | [Github](https://github.com/Skatteetaten/frontend-components) |
 | [SpareBank 1 Designsystem](https://design.sparebank1.no/) | ✔️ | ✔️ | ✔️ | [Github](https://github.com/SpareBank1/designsystem) |
 | [Vipps](https://brand.vipps.no//) |  | ✔️ | ✔️ |  |
 
