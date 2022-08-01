@@ -1,0 +1,46 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+body {
+  background: rgb(35,42,81);
+  background-image: url('../public/images/mountains.png'),
+    linear-gradient(0deg, rgba(31,83,128,1) 0%, rgba(10,14,45,1) 100%);
+  background-repeat: no-repeat, no-repeat;
+  background-position: bottom left, top left;
+  background-size: 100% auto, 100% 100%;
+  color: aliceblue;
+  position: relative;
+}
+
+body::before {
+    background-image: url('../public/images/stars.png');
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    bottom: 0;
+    content: "";
+    left: 0;
+    opacity:0.5;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+body > * {
+    position: relative;
+}
+
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
