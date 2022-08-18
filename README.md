@@ -23,7 +23,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Elsa - domstolenes designsystem ](https://design.domstol.no/)                 |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Entur Designsystem ](https://design.entur.org/)                               |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Equinor Design System](https://eds.equinor.com/)                              |     ✔️     |      ✔️      |      ✔️       |      [Github](https://github.com/equinor/design-system)       |
-| [Finnivers (Finn.no)](https://finnivers.finn.no/)                              |     ✔️     |      ✔️      |      ✔️       |                                                               |
+| [Fabric (Finn.no)](https://www.fabric-ds.io/)                                  |     ✔️     |             |      ✔️       |      [Github](https://github.com/fabric-ds/)                                                  |
 | [Hedwig (Posten/Bring)](https://hedwig-docs.herokuapp.com/)                    |     ✔️     |              |      ✔️       |           [Github](https://github.com/bring/hedwig)           |
 | [Innovasjon Norge ](https://company-139306.frontify.com/d/YokG7g2Ch3dy/brand)  |     ✔️     |              |      ✔️       |                                                               |
 | [Jøkul (Fremtind)](https://fremtind.github.io/jokul/)                          |     ✔️     |      ✔️      |      ✔️       |          [Github](https://github.com/fremtind/jokul)          |
