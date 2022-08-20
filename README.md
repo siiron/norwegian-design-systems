@@ -23,8 +23,8 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Elsa - domstolenes designsystem ](https://design.domstol.no/)                 |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Entur Designsystem ](https://design.entur.org/)                               |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Equinor Design System](https://eds.equinor.com/)                              |     ✔️     |      ✔️      |      ✔️       |      [Github](https://github.com/equinor/design-system)       |
-| [Finnivers (Finn.no)](https://finnivers.finn.no/)                              |     ✔️     |      ✔️      |      ✔️       |                                                               |
-| [Hedwig (Posten/Bring)](https://hedwig-docs.herokuapp.com/)                    |     ✔️     |              |      ✔️       |           [Github](https://github.com/bring/hedwig)           |
+| [Fabric (Finn.no)](https://www.fabric-ds.io/)                                  |     ✔️     |              |      ✔️       |      [Github](https://github.com/fabric-ds/)                  |
+| [Hedwig (Posten/Bring)](https://hedwig.posten.no/)                             |     ✔️     |      ✔️      |      ✔️       |           [Github](https://github.com/bring/hedwig)           |
 | [Innovasjon Norge ](https://company-139306.frontify.com/d/YokG7g2Ch3dy/brand)  |     ✔️     |              |      ✔️       |                                                               |
 | [Jøkul (Fremtind)](https://fremtind.github.io/jokul/)                          |     ✔️     |      ✔️      |      ✔️       |          [Github](https://github.com/fremtind/jokul)          |
 | [Kognifai Designsystem](https://designsystem.kognif.ai/)                       |     ✔️     |              |               |                                                               |
@@ -39,6 +39,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Ruter Design System](https://brand.ruter.no)                                  |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Skatteetaten](https://skatteetaten.github.io/frontend-components/)            |     ✔️     |      ✔️      |      ✔️       | [Github](https://github.com/Skatteetaten/frontend-components) |
 | [SpareBank 1 Designsystem](https://design.sparebank1.no/)                      |     ✔️     |      ✔️      |      ✔️       |   [Github](https://github.com/SpareBank1/designsystem)        |
+| [Spor (Vy)](https://spor.cloud.vy.no/)                                         |     ✔️     |      ✔️      |      ✔️       | [GitHub](https://github.com/nsbno/spor) |
 | [Vipps](https://brand.vipps.no//)                                              |            |      ✔️      |      ✔️       |                                                               |
 
 ### Notes
