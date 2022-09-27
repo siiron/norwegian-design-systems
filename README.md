@@ -36,6 +36,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Nav Designsystem](https://design.nav.no/)                                     |     ✔️     |      ✔️      |      ✔️       |   [Github](https://github.com/navikt/nav-frontend-moduler)    |
 | [Norges nasjonalparker](https://designmanual.norgesnasjonalparker.no/)         |            |      ✔️      |      ✔️       |                                                               |
 | [Norsk Tipping Designguide](http://nt-designguide.no/)                         |            |              |      ✔️       |                                                               |
+| [OpenBridge Design system](https://www.openbridge.no/)                         |     ✔️     |              |      ✔️       | [Gitlab](https://gitlab.com/openbridge/openbridge-web-components)   |
 | [Origo (NRK)](https://static.nrk.no/origo/latest/index.html)                   |     ✔️     |              |      ✔️       |                                                               |
 | [Ruter Design System](https://brand.ruter.no)                                  |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Skatteetaten](https://skatteetaten.github.io/frontend-components/)            |     ✔️     |      ✔️      |      ✔️       | [Github](https://github.com/Skatteetaten/frontend-components) |
