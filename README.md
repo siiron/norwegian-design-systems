@@ -29,7 +29,6 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [FNSP](https://design.fnsp.no/#/intro)                                         |     ✔️     |              |                |                                                               |
 | [Hedwig (Posten/Bring)](https://hedwig.posten.no/)                             |     ✔️     |      ✔️      |      ✔️       |           [Github](https://github.com/bring/hedwig)           |
 | [If Design system ](https://design.if.eu/)                                     |     ✔️     |              |      ✔️       |                                                               |
-| [Innovasjon Norge ](https://company-139306.frontify.com/d/YokG7g2Ch3dy/brand)  |     ✔️     |              |      ✔️       |                                                               |
 | [Jøkul (Fremtind)](https://fremtind.github.io/jokul/)                          |     ✔️     |      ✔️      |      ✔️       |          [Github](https://github.com/fremtind/jokul)          |
 | [Kognifai Designsystem](https://designsystem.kognif.ai/)                       |     ✔️     |              |               |                                                               |
 | [Lillestrøm Kommune Designsystem](https://design.lillestrom.kommune.no/guide/) |     ✔️     |      ✔️      |               |                                                               |
