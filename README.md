@@ -31,7 +31,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [If Design system ](https://design.if.eu/)                                     |     ✔️     |              |      ✔️       |                                                               |
 | [Innovasjon Norge ](https://company-139306.frontify.com/d/YokG7g2Ch3dy/brand)  |     ✔️     |              |      ✔️       |                                                               |
 | [Jøkul (Fremtind)](https://fremtind.github.io/jokul/)                          |     ✔️     |      ✔️      |      ✔️       |          [Github](https://github.com/fremtind/jokul)          |
-| [Kognifai Designsystem](https://designsystem.kognif.ai/)                       |     ✔️     |              |               |                                                               |
+| [Triton Designsystem](https://componentlib-docs.azurewebsites.net/)            |     ✔️     |              |               |                                                               |
 | [Lillestrøm Kommune Designsystem](https://design.lillestrom.kommune.no/guide/) |     ✔️     |      ✔️      |               |                                                               |
 | [Mattilsynet Designsystem](https://mattilsynet.github.io/designsystem/)        |     ✔️     |              |               |     [Github](https://github.com/Mattilsynet/designsystem)     |
 | [NAF Designsystem](https://merkevare.naf.no/)                                  |     ✔️     |      ✔️      |      ✔️       |                                                               |
