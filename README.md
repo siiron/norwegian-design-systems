@@ -30,7 +30,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Hedwig (Posten/Bring)](https://hedwig.posten.no/)                             |     ✔️     |      ✔️      |      ✔️       |           [Github](https://github.com/bring/hedwig)           |
 | [If Design system ](https://design.if.eu/)                                     |     ✔️     |              |      ✔️       |                                                               |
 | [Jøkul (Fremtind)](https://fremtind.github.io/jokul/)                          |     ✔️     |      ✔️      |      ✔️       |          [Github](https://github.com/fremtind/jokul)          |
-| [Kognifai Designsystem](https://designsystem.kognif.ai/)                       |     ✔️     |              |               |                                                               |
+| [Triton Designsystem](https://componentlib-docs.azurewebsites.net/)            |     ✔️     |              |               |                                                               |
 | [Lillestrøm Kommune Designsystem](https://design.lillestrom.kommune.no/guide/) |     ✔️     |      ✔️      |               |                                                               |
 | [Mattilsynet Designsystem](https://mattilsynet.github.io/designsystem/)        |     ✔️     |              |               |     [Github](https://github.com/Mattilsynet/designsystem)     |
 | [NAF Designsystem](https://merkevare.naf.no/)                                  |     ✔️     |      ✔️      |      ✔️       |                                                               |
