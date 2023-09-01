@@ -19,6 +19,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | Name                                                                           | Components | Voice & Tone | Designers Kit |                         Source code*                          |
 |--------------------------------------------------------------------------------|:----------:|:------------:|:-------------:|:-------------------------------------------------------------:|
 | [Altinn Designsystem](https://altinn.github.io/designsystem-styleguide/)       |     ✔️     |              |               |       [Github](https://github.com/Altinn/DesignSystem/)       |
+| [Designsystemet](https://www.designsystemet.no/)                               |     ✔️     |              |      ✔️       |      [Github](https://github.com/digdir/designsystem)       |
 | [DNB Eufemia](https://eufemia.dnb.no/)                                         |     ✔️     |              |      ✔️       |      [Github](https://github.com/dnbexperience/eufemia)       |
 | [Plumage Design System (Ducky)](https://plumage.ducky.eco/)                    |     ✔️     |              |      ✔️       |      [Github](https://github.com/DuckyTeam/Plumage)           |
 | [Elsa - domstolenes designsystem ](https://design.domstol.no/)                 |     ✔️     |      ✔️      |      ✔️       |       [Github](https://github.com/domstolene/designsystem)     |
