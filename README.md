@@ -30,7 +30,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Elvia Design system ](https://design.elvia.io/)                               |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Entur Designsystem ](https://design.entur.org/)                               |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Equinor Design System](https://eds.equinor.com/)                              |     ✔️     |      ✔️      |      ✔️       |      [Github](https://github.com/equinor/design-system)       |
-| [Finn - Fabric)](https://www.fabric-ds.io/)                                  |     ✔️     |              |      ✔️       |      [Github](https://github.com/fabric-ds/)                  |
+| [Finn - Fabric](https://www.fabric-ds.io/)                                  |     ✔️     |              |      ✔️       |      [Github](https://github.com/fabric-ds/)                  |
 | [FNSP](https://design.fnsp.no/#/intro)                                         |     ✔️     |              |                |                                                               |
 | [Fremtind - Jøkul](https://fremtind.github.io/jokul/)                          |     ✔️     |      ✔️      |      ✔️       |          [Github](https://github.com/fremtind/jokul)          |
 | [Helsenorge](https://helsenorge.design/)                                       |     ✔️     |              |                |     [Github](https://github.com/helsenorge/designsystem)      |
