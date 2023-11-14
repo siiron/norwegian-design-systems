@@ -41,6 +41,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Lillestrøm Kommune Designsystem](https://design.lillestrom.kommune.no/guide/) |     ✔️     |      ✔️      |               |                                                               |
 | [Lånekassen](https://calm-hill-068549003.azurestaticapps.net/)                 |     ✔️     |              |               |                                                               |
 | [Mattilsynet Designsystem](https://mattilsynet.github.io/designsystem/)        |     ✔️     |              |               |     [Github](https://github.com/Mattilsynet/designsystem)     |
+| [Miljødirektoratet](https://design.miljodirektoratet.no/)                      |     ✔️     |              |       ✔️       |     [Github](https://github.com/miljodir/md-components)       |
 | [NAF Designsystem](https://merkevare.naf.no/)                                  |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Aksel - Nav Designsystem](https://aksel.nav.no/)                              |     ✔️     |      ✔️      |      ✔️       |   [Github](https://github.com/navikt/nav-frontend-moduler)    |
 | [Norges nasjonalparker](https://designmanual.norgesnasjonalparker.no/)         |            |      ✔️      |      ✔️       |                                                               |
