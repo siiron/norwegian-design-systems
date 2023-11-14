@@ -58,6 +58,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Skatteetaten](https://skatteetaten.github.io/frontend-components/)            |     ✔️     |      ✔️      |      ✔️       | [Github](https://github.com/Skatteetaten/frontend-components) |
 | [SpareBank 1 Designsystem](https://design.ssb.no/)                             |     ✔️     |      ✔️      |      ✔️       |   [Github](https://github.com/SpareBank1/designsystem)        |
 | [Statistisk Sentralbyrå](https://design.sparebank1.no/)                        |     ✔️     |              |              |   [Github](https://github.com/statisticsnorway/ssb-component-library)        |
+| [Statsforvalteren](https://bak.statsforvalteren.no/)                           |     ✔️     |              |              |                                                                 |
 | [Triton Designsystem](https://componentlib-docs.azurewebsites.net/)            |     ✔️     |              |               |                                                               |
 | [Vipps](https://brand.vipps.no//)                                              |            |      ✔️      |      ✔️       |                                                               |
 | [Vy - Spor](https://spor.cloud.vy.no/)                                         |     ✔️     |      ✔️      |      ✔️       | [GitHub](https://github.com/nsbno/spor) |
