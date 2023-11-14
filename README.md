@@ -34,7 +34,8 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [FNSP](https://design.fnsp.no/#/intro)                                         |     ✔️     |              |                |                                                               |
 | [Hedwig (Posten/Bring)](https://hedwig.posten.no/)                             |     ✔️     |      ✔️      |      ✔️       |           [Github](https://github.com/bring/hedwig)           |
 | [Helsenorge](https://helsenorge.design/)                                       |     ✔️     |              |                |     [Github](https://github.com/helsenorge/designsystem)      |
-| [If Design system ](https://design.if.eu/)                                     |     ✔️     |              |      ✔️       |                                                               |
+| [If Design system ](https://www.imdi.no/om-imdi/designsystem/)                 |     ✔️     |              |                |                                                               |
+| [IMDi Designsystem ](https://design.if.eu/)                                    |     ✔️     |              |      ✔️       |                                                               |
 | [Jøkul (Fremtind)](https://fremtind.github.io/jokul/)                          |     ✔️     |      ✔️      |      ✔️       |          [Github](https://github.com/fremtind/jokul)          |
 | [Lillestrøm Kommune Designsystem](https://design.lillestrom.kommune.no/guide/) |     ✔️     |      ✔️      |               |                                                               |
 | [Mattilsynet Designsystem](https://mattilsynet.github.io/designsystem/)        |     ✔️     |              |               |     [Github](https://github.com/Mattilsynet/designsystem)     |
