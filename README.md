@@ -20,6 +20,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 |--------------------------------------------------------------------------------|:----------:|:------------:|:-------------:|:-------------------------------------------------------------:|
 | [Altinn Designsystem](https://altinn.github.io/designsystem-styleguide/)       |     ✔️     |              |               |       [Github](https://github.com/Altinn/DesignSystem/)       |
 | [Arbeidstilsynet](https://design.arbeidstilsynet.no/)                          |     ✔️     |              |               |                                                               |
+| [Deichman](https://digibib.github.io/)                                         |     ✔️     |              |               |                                                               |
 | [Designsystemet](https://www.designsystemet.no/)                               |     ✔️     |              |      ✔️       |      [Github](https://github.com/digdir/designsystem)       |
 | [DFØ](https://komponenter.dfo.no/)                                             |     ✔️     |              |      ✔️       |                                                               |
 | [DNB Eufemia](https://eufemia.dnb.no/)                                         |     ✔️     |              |      ✔️       |      [Github](https://github.com/dnbexperience/eufemia)       |
