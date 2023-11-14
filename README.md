@@ -25,30 +25,31 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [DFØ](https://komponenter.dfo.no/)                                             |     ✔️     |              |      ✔️       |                                                               |
 | [DHIS2/UiO](https://ui.dhis2.nu/)                                              |     ✔️     |              |               |                                                               |
 | [DNB Eufemia](https://eufemia.dnb.no/)                                         |     ✔️     |              |      ✔️       |      [Github](https://github.com/dnbexperience/eufemia)       |
-| [Plumage Design System (Ducky)](https://plumage.ducky.eco/)                    |     ✔️     |              |      ✔️       |      [Github](https://github.com/DuckyTeam/Plumage)           |
-| [Elsa - domstolenes designsystem ](https://design.domstol.no/)                 |     ✔️     |      ✔️      |      ✔️       |       [Github](https://github.com/domstolene/designsystem)     |
+| [Domstolenes Designsystem - Elsa ](https://design.domstol.no/)                 |     ✔️     |      ✔️      |      ✔️       |       [Github](https://github.com/domstolene/designsystem)     |
+| [Ducky Design System - Plumage](https://plumage.ducky.eco/)                    |     ✔️     |              |      ✔️       |      [Github](https://github.com/DuckyTeam/Plumage)           |
 | [Elvia Design system ](https://design.elvia.io/)                               |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Entur Designsystem ](https://design.entur.org/)                               |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Equinor Design System](https://eds.equinor.com/)                              |     ✔️     |      ✔️      |      ✔️       |      [Github](https://github.com/equinor/design-system)       |
-| [Fabric (Finn.no)](https://www.fabric-ds.io/)                                  |     ✔️     |              |      ✔️       |      [Github](https://github.com/fabric-ds/)                  |
+| [Finn - Fabric)](https://www.fabric-ds.io/)                                  |     ✔️     |              |      ✔️       |      [Github](https://github.com/fabric-ds/)                  |
 | [FNSP](https://design.fnsp.no/#/intro)                                         |     ✔️     |              |                |                                                               |
-| [Hedwig (Posten/Bring)](https://hedwig.posten.no/)                             |     ✔️     |      ✔️      |      ✔️       |           [Github](https://github.com/bring/hedwig)           |
+| [Fremtind - Jøkul](https://fremtind.github.io/jokul/)                          |     ✔️     |      ✔️      |      ✔️       |          [Github](https://github.com/fremtind/jokul)          |
 | [Helsenorge](https://helsenorge.design/)                                       |     ✔️     |              |                |     [Github](https://github.com/helsenorge/designsystem)      |
 | [If Design system ](https://www.imdi.no/om-imdi/designsystem/)                 |     ✔️     |              |                |                                                               |
 | [IMDi Designsystem ](https://design.if.eu/)                                    |     ✔️     |              |      ✔️       |                                                               |
-| [Jøkul (Fremtind)](https://fremtind.github.io/jokul/)                          |     ✔️     |      ✔️      |      ✔️       |          [Github](https://github.com/fremtind/jokul)          |
 | [Kartverket](https://design.kartverket.no/)                                    |     ✔️     |              |               |                                                               |
 | [Lillestrøm Kommune Designsystem](https://design.lillestrom.kommune.no/guide/) |     ✔️     |      ✔️      |               |                                                               |
 | [Lånekassen](https://calm-hill-068549003.azurestaticapps.net/)                 |     ✔️     |              |               |                                                               |
 | [Mattilsynet Designsystem](https://mattilsynet.github.io/designsystem/)        |     ✔️     |              |               |     [Github](https://github.com/Mattilsynet/designsystem)     |
 | [Miljødirektoratet](https://design.miljodirektoratet.no/)                      |     ✔️     |              |       ✔️       |     [Github](https://github.com/miljodir/md-components)       |
 | [NAF Designsystem](https://merkevare.naf.no/)                                  |     ✔️     |      ✔️      |      ✔️       |                                                               |
-| [Aksel - Nav Designsystem](https://aksel.nav.no/)                              |     ✔️     |      ✔️      |      ✔️       |   [Github](https://github.com/navikt/nav-frontend-moduler)    |
+| [Nasjonal Digital Læringsarena](https://designmanual.ndla.sh/)                 |     ✔️     |              |               |                                                               |
+| [Nav Designsystem -Aksel ](https://aksel.nav.no/)                              |     ✔️     |      ✔️      |      ✔️       |   [Github](https://github.com/navikt/nav-frontend-moduler)    |
 | [Norges nasjonalparker](https://designmanual.norgesnasjonalparker.no/)         |            |      ✔️      |      ✔️       |                                                               |
 | [Norsk Tipping Designguide](http://nt-designguide.no/)                         |            |              |      ✔️       |                                                               |
 | [OpenBridge Design system](https://www.openbridge.no/)                         |     ✔️     |              |      ✔️       | [Gitlab](https://gitlab.com/openbridge/openbridge-web-components)   |
-| [Origo (NRK)](https://static.nrk.no/origo/latest/index.html)                   |     ✔️     |              |      ✔️       |                                                               |
+| [NRK - Origo](https://static.nrk.no/origo/latest/index.html)                   |     ✔️     |              |      ✔️       |                                                               |
 | [Politiet)](https://www.politiet.no/design/)                                   |            |              |      ✔️       |                                                               |
+| [Posten/Bring -Hedwig](https://hedwig.posten.no/)                             |     ✔️     |      ✔️      |      ✔️       |           [Github](https://github.com/bring/hedwig)           |
 | [Ruter Design System](https://brand.ruter.no)                                  |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Skatteetaten](https://skatteetaten.github.io/frontend-components/)            |     ✔️     |      ✔️      |      ✔️       | [Github](https://github.com/Skatteetaten/frontend-components) |
 | [SpareBank 1 Designsystem](https://design.sparebank1.no/)                      |     ✔️     |      ✔️      |      ✔️       |   [Github](https://github.com/SpareBank1/designsystem)        |
