@@ -33,6 +33,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Fabric (Finn.no)](https://www.fabric-ds.io/)                                  |     ✔️     |              |      ✔️       |      [Github](https://github.com/fabric-ds/)                  |
 | [FNSP](https://design.fnsp.no/#/intro)                                         |     ✔️     |              |                |                                                               |
 | [Hedwig (Posten/Bring)](https://hedwig.posten.no/)                             |     ✔️     |      ✔️      |      ✔️       |           [Github](https://github.com/bring/hedwig)           |
+| [Helsenorge](https://helsenorge.design/)                                       |     ✔️     |              |                |     [Github](https://github.com/helsenorge/designsystem)      |
 | [If Design system ](https://design.if.eu/)                                     |     ✔️     |              |      ✔️       |                                                               |
 | [Jøkul (Fremtind)](https://fremtind.github.io/jokul/)                          |     ✔️     |      ✔️      |      ✔️       |          [Github](https://github.com/fremtind/jokul)          |
 | [Triton Designsystem](https://componentlib-docs.azurewebsites.net/)            |     ✔️     |              |               |                                                               |
