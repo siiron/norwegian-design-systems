@@ -46,6 +46,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Nav Designsystem -Aksel ](https://aksel.nav.no/)                              |     ✔️     |      ✔️      |      ✔️       |   [Github](https://github.com/navikt/nav-frontend-moduler)    |
 | [Norges nasjonalparker](https://designmanual.norgesnasjonalparker.no/)         |            |      ✔️      |      ✔️       |                                                               |
 | [Norsk Tipping Designguide](http://nt-designguide.no/)                         |            |              |      ✔️       |                                                               |
+| [NTNU](https://design.online.ntnu.no/)                                         |     ✔️     |              |               |                                                               |
 | [OpenBridge Design system](https://www.openbridge.no/)                         |     ✔️     |              |      ✔️       | [Gitlab](https://gitlab.com/openbridge/openbridge-web-components)   |
 | [NRK - Origo](https://static.nrk.no/origo/latest/index.html)                   |     ✔️     |              |      ✔️       |                                                               |
 | [Politiet)](https://www.politiet.no/design/)                                   |            |              |      ✔️       |                                                               |
