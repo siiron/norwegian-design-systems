@@ -51,7 +51,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Oslo Kommune - Punkt](https://punkt.oslo.kommune.no/)                         |     ✔️     |               |               | [Github](https://github.com/oslokommune/punkt/)               |
 | [Oslo Kommune - Origo](https://designsystem.oslo.kommune.no/)                  |     ✔️     |               |               |                                                               |
 | [NRK - Origo](https://static.nrk.no/origo/latest/index.html)                   |     ✔️     |              |      ✔️       |       [Github](https://github.com/nrkno/origo)                |
-| [Politiet)](https://www.politiet.no/design/)                                   |            |              |      ✔️       |                                                               |
+| [Politiet](https://www.politiet.no/design/)                                   |            |              |      ✔️       |                                                               |
 | [Posten/Bring -Hedwig](https://hedwig.posten.no/)                             |     ✔️     |      ✔️      |      ✔️       |           [Github](https://github.com/bring/hedwig)           |
 | [Ruter Design System](https://brand.ruter.no)                                  |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Sikt](https://designsystem.sikt.no/)                                          |     ✔️     |             |       ✔️       | [Gitlab](https://gitlab.sikt.no/)  |
@@ -60,6 +60,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Statistisk Sentralbyrå](https://design.sparebank1.no/)                        |     ✔️     |              |              |   [Github](https://github.com/statisticsnorway/ssb-component-library)        |
 | [Statsforvalteren](https://bak.statsforvalteren.no/)                           |     ✔️     |              |              |                                                                 |
 | [Triton Designsystem](https://componentlib-docs.azurewebsites.net/)            |     ✔️     |              |               |                                                               |
+| [Vestfold og Telemark Fylkeskommune](https://komponenter.vtfk.no/)             |     ✔️      |              |              |  [Github](https://github.com/vtfk/component-library)            |
 | [Vipps](https://brand.vipps.no//)                                              |            |      ✔️      |      ✔️       |                                                               |
 | [Vy - Spor](https://spor.cloud.vy.no/)                                         |     ✔️     |      ✔️      |      ✔️       | [GitHub](https://github.com/nsbno/spor) |
 
