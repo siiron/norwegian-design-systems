@@ -54,6 +54,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Politiet)](https://www.politiet.no/design/)                                   |            |              |      ✔️       |                                                               |
 | [Posten/Bring -Hedwig](https://hedwig.posten.no/)                             |     ✔️     |      ✔️      |      ✔️       |           [Github](https://github.com/bring/hedwig)           |
 | [Ruter Design System](https://brand.ruter.no)                                  |     ✔️     |      ✔️      |      ✔️       |                                                               |
+| [Sikt](https://designsystem.sikt.no/)                                          |     ✔️     |             |       ✔️       | [Gitlab](https://gitlab.sikt.no/)  |
 | [Skatteetaten](https://skatteetaten.github.io/frontend-components/)            |     ✔️     |      ✔️      |      ✔️       | [Github](https://github.com/Skatteetaten/frontend-components) |
 | [SpareBank 1 Designsystem](https://design.sparebank1.no/)                      |     ✔️     |      ✔️      |      ✔️       |   [Github](https://github.com/SpareBank1/designsystem)        |
 | [Spor (Vy)](https://spor.cloud.vy.no/)                                         |     ✔️     |      ✔️      |      ✔️       | [GitHub](https://github.com/nsbno/spor) |
