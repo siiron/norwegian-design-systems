@@ -60,6 +60,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Statistisk Sentralbyrå](https://design.sparebank1.no/)                        |     ✔️     |              |              |   [Github](https://github.com/statisticsnorway/ssb-component-library)        |
 | [Statsforvalteren](https://bak.statsforvalteren.no/)                           |     ✔️     |              |              |                                                                 |
 | [Triton Designsystem](https://componentlib-docs.azurewebsites.net/)            |     ✔️     |              |               |                                                               |
+| [Utdanning](https://design.utdanning.no/)                                      |     ✔️     |             |      ✔️       | [GitHub](https://github.com/utdanningno/utdanning-designsystem) |
 | [Vipps](https://brand.vipps.no//)                                              |            |      ✔️      |      ✔️       |                                                               |
 | [Vy - Spor](https://spor.cloud.vy.no/)                                         |     ✔️     |      ✔️      |      ✔️       | [GitHub](https://github.com/nsbno/spor) |
 
