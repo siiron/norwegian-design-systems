@@ -21,6 +21,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Altinn Designsystem](https://altinn.github.io/designsystem-styleguide/)       |     ✔️     |              |               |       [Github](https://github.com/Altinn/DesignSystem/)       |
 | [Arbeidstilsynet](https://design.arbeidstilsynet.no/)                          |     ✔️     |              |               |                                                               |
 | [Designsystemet](https://www.designsystemet.no/)                               |     ✔️     |              |      ✔️       |      [Github](https://github.com/digdir/designsystem)       |
+| [DFØ](https://komponenter.dfo.no/)                                             |     ✔️     |              |      ✔️       |                                                               |
 | [DNB Eufemia](https://eufemia.dnb.no/)                                         |     ✔️     |              |      ✔️       |      [Github](https://github.com/dnbexperience/eufemia)       |
 | [Plumage Design System (Ducky)](https://plumage.ducky.eco/)                    |     ✔️     |              |      ✔️       |      [Github](https://github.com/DuckyTeam/Plumage)           |
 | [Elsa - domstolenes designsystem ](https://design.domstol.no/)                 |     ✔️     |      ✔️      |      ✔️       |       [Github](https://github.com/domstolene/designsystem)     |
