@@ -30,7 +30,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Elvia Design system ](https://design.elvia.io/)                               |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Entur Designsystem ](https://design.entur.org/)                               |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Equinor Design System](https://eds.equinor.com/)                              |     ✔️     |      ✔️      |      ✔️       |      [Github](https://github.com/equinor/design-system)       |
-| [Finn - Fabric](https://www.fabric-ds.io/)                                  |     ✔️     |              |      ✔️       |      [Github](https://github.com/fabric-ds/)                  |
+| [Finn - Fabric](https://www.fabric-ds.io/)                                     |     ✔️     |              |      ✔️       |      [Github](https://github.com/fabric-ds/)                  |
 | [FNSP](https://design.fnsp.no/#/intro)                                         |     ✔️     |              |                |                                                               |
 | [Fremtind - Jøkul](https://fremtind.github.io/jokul/)                          |     ✔️     |      ✔️      |      ✔️       |          [Github](https://github.com/fremtind/jokul)          |
 | [Helsenorge](https://helsenorge.design/)                                       |     ✔️     |              |                |     [Github](https://github.com/helsenorge/designsystem)      |
@@ -47,21 +47,21 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Norges nasjonalparker](https://designmanual.norgesnasjonalparker.no/)         |            |      ✔️      |      ✔️       |                                                               |
 | [Norsk Tipping Designguide](http://nt-designguide.no/)                         |            |              |      ✔️       |                                                               |
 | [NTNU](https://design.online.ntnu.no/)                                         |     ✔️     |              |               |                                                               |
-| [OpenBridge Design system](https://www.openbridge.no/)                         |     ✔️     |              |      ✔️      | [Gitlab](https://gitlab.com/openbridge/openbridge-web-components)   |
-| [Oslo Origo - Punkt](https://punkt.oslo.kommune.no/)                                |     ✔️     |               |               | [Github](https://github.com/oslokommune/punkt/)               |
+| [OpenBridge Design system](https://www.openbridge.no/)                         |     ✔️     |              |      ✔️      | [Gitlab](https://gitlab.com/openbridge/openbridge-web-components) |
+| [Oslo Origo - Punkt](https://punkt.oslo.kommune.no/)                           |     ✔️     |               |               | [Github](https://github.com/oslokommune/punkt/)             |
 | [Oslo Kommune - Oslo Designsystem](https://designsystem.oslo.kommune.no/)      |     ✔️     |               |               |                                                               |
 | [NRK - Origo](https://static.nrk.no/origo/latest/index.html)                   |     ✔️     |              |      ✔️       |       [Github](https://github.com/nrkno/origo)                |
-| [Politiet](https://www.politiet.no/design/)                                   |            |              |      ✔️       |                                                               |
-| [Posten/Bring -Hedwig](https://hedwig.posten.no/)                             |     ✔️     |      ✔️      |      ✔️       |           [Github](https://github.com/bring/hedwig)           |
+| [Politiet](https://www.politiet.no/design/)                                    |            |              |      ✔️       |                                                               |
+| [Posten/Bring -Hedwig](https://hedwig.posten.no/)                              |     ✔️     |      ✔️      |      ✔️       |           [Github](https://github.com/bring/hedwig)           |
 | [Ruter Design System](https://brand.ruter.no)                                  |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Sikt](https://designsystem.sikt.no/)                                          |     ✔️     |             |       ✔️       | [Gitlab](https://gitlab.sikt.no/)  |
 | [Skatteetaten](https://skatteetaten.github.io/frontend-components/)            |     ✔️     |      ✔️      |      ✔️       | [Github](https://github.com/Skatteetaten/frontend-components) |
-| [SpareBank 1 Designsystem](https://design.ssb.no/)                             |     ✔️     |      ✔️      |      ✔️       |   [Github](https://github.com/SpareBank1/designsystem)        |
-| [Statistisk Sentralbyrå](https://design.sparebank1.no/)                        |     ✔️     |              |              |   [Github](https://github.com/statisticsnorway/ssb-component-library)        |
+| [SpareBank 1 Designsystem](https://design.sparebank1.no/)                      |     ✔️     |      ✔️      |      ✔️       |   [Github](https://github.com/SpareBank1/designsystem)        |
+| [Statistisk Sentralbyrå](https://design.ssb.no/)                               |     ✔️     |              |              | [Github](https://github.com/statisticsnorway/ssb-component-library)  |
 | [Statsforvalteren](https://bak.statsforvalteren.no/)                           |     ✔️     |              |              |                                                                 |
 | [Triton Designsystem](https://componentlib-docs.azurewebsites.net/)            |     ✔️     |              |               |                                                               |
 | [Utdanning](https://design.utdanning.no/)                                      |     ✔️     |             |      ✔️       | [GitHub](https://github.com/utdanningno/utdanning-designsystem) |
-| [Vestfold og Telemark Fylkeskommune](https://komponenter.vtfk.no/)             |     ✔️      |              |              |  [Github](https://github.com/vtfk/component-library)            |
+| [Vestfold og Telemark Fylkeskommune](https://komponenter.vtfk.no/)             |     ✔️     |              |              |  [Github](https://github.com/vtfk/component-library)            |
 | [Vipps](https://brand.vipps.no//)                                              |            |      ✔️      |      ✔️       |                                                               |
 | [Vy - Spor](https://spor.cloud.vy.no/)                                         |     ✔️     |      ✔️      |      ✔️       | [GitHub](https://github.com/nsbno/spor) |
 
