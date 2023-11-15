@@ -48,8 +48,8 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Norsk Tipping Designguide](http://nt-designguide.no/)                         |            |              |      ✔️       |                                                               |
 | [NTNU](https://design.online.ntnu.no/)                                         |     ✔️     |              |               |                                                               |
 | [OpenBridge Design system](https://www.openbridge.no/)                         |     ✔️     |              |      ✔️      | [Gitlab](https://gitlab.com/openbridge/openbridge-web-components)   |
-| [Oslo Kommune - Punkt](https://punkt.oslo.kommune.no/)                         |     ✔️     |               |               | [Github](https://github.com/oslokommune/punkt/)               |
-| [Oslo Kommune - Origo](https://designsystem.oslo.kommune.no/)                  |     ✔️     |               |               |                                                               |
+| [Origo - Punkt](https://punkt.oslo.kommune.no/)                                |     ✔️     |               |               | [Github](https://github.com/oslokommune/punkt/)               |
+| [Oslo Kommune - Oslo Designsystem](https://designsystem.oslo.kommune.no/)      |     ✔️     |               |               |                                                               |
 | [NRK - Origo](https://static.nrk.no/origo/latest/index.html)                   |     ✔️     |              |      ✔️       |       [Github](https://github.com/nrkno/origo)                |
 | [Politiet](https://www.politiet.no/design/)                                   |            |              |      ✔️       |                                                               |
 | [Posten/Bring -Hedwig](https://hedwig.posten.no/)                             |     ✔️     |      ✔️      |      ✔️       |           [Github](https://github.com/bring/hedwig)           |
