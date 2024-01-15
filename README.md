@@ -18,7 +18,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 <!-- prettier-ignore -->
 | Name                                                                           | Components | Voice & Tone | Designers Kit |                         Source code*                          |
 |--------------------------------------------------------------------------------|:----------:|:------------:|:-------------:|:-------------------------------------------------------------:|
-| [Altinn Designsystem](https://altinn.github.io/designsystem-styleguide/)       |     ✔️     |              |               |       [Github](https://github.com/Altinn/DesignSystem/)       |
+| [Altinn Designsystem](https://designsystem.altinn.studio/)                     |     ✔️     |              |               |  [Github](https://github.com/Altinn/altinn-design-system/)    |
 | [Arbeidstilsynet](https://design.arbeidstilsynet.no/)                          |     ✔️     |              |               |                                                               |
 | [Deichman](https://digibib.github.io/)                                         |     ✔️     |              |               |                                                               |
 | [Designsystemet](https://www.designsystemet.no/)                               |     ✔️     |              |      ✔️       |      [Github](https://github.com/digdir/designsystem)       |
