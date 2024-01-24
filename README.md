@@ -47,6 +47,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Norges nasjonalparker](https://designmanual.norgesnasjonalparker.no/)         |            |      ✔️      |      ✔️       |                                                               |
 | [Norsk Tipping Designguide](http://nt-designguide.no/)                         |            |              |      ✔️       |                                                               |
 | [NTNU](https://design.online.ntnu.no/)                                         |     ✔️     |              |               |                                                               |
+| [NVE - Noregs vassdrags- og energidirektorat](https://design.online.ntnu.no/)  |     ✔️     |              |      ✔️       | [Github](https://github.com/NVE/Designsystem)                 |
 | [OpenBridge Design system](https://www.openbridge.no/)                         |     ✔️     |              |      ✔️      | [Gitlab](https://gitlab.com/openbridge/openbridge-web-components) |
 | [Oslo Origo - Punkt](https://punkt.oslo.kommune.no/)                           |     ✔️     |               |               | [Github](https://github.com/oslokommune/punkt/)             |
 | [Oslo Kommune - Oslo Designsystem](https://designsystem.oslo.kommune.no/)      |     ✔️     |               |               |                                                               |
