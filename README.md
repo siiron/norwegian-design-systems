@@ -33,6 +33,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Finn - Fabric](https://www.fabric-ds.io/)                                     |     ✔️     |              |      ✔️       |      [Github](https://github.com/fabric-ds/)                  |
 | [FNSP](https://design.fnsp.no/#/intro)                                         |     ✔️     |              |                |                                                               |
 | [Fremtind - Jøkul](https://fremtind.github.io/jokul/)                          |     ✔️     |      ✔️      |      ✔️       |          [Github](https://github.com/fremtind/jokul)          |
+| [Gjensidige - Builders Core](https://www.gjensidige.builders/docs/core/)                          |     ✔️     |      ✔️      |      ✔️       |                    |
 | [Helsenorge](https://helsenorge.design/)                                       |     ✔️     |              |                |     [Github](https://github.com/helsenorge/designsystem)      |
 | [If Design system ](https://design.if.eu/)                 |     ✔️     |              |                |                                                               |
 | [IMDi Designsystem ](https://www.imdi.no/om-imdi/designsystem/)                                    |     ✔️     |              |      ✔️       |                                                               |
