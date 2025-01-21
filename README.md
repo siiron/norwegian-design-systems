@@ -65,7 +65,8 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Utdanning](https://design.utdanning.no/)                                      |     ✔️     |             |      ✔️       | [GitHub](https://github.com/utdanningno/utdanning-designsystem) |
 | [Vestfold og Telemark Fylkeskommune](https://komponenter.vtfk.no/)             |     ✔️     |              |              |  [Github](https://github.com/vtfk/component-library)            |
 | [Vipps](https://brand.vipps.no//)                                              |            |      ✔️      |      ✔️       |                                                               |
-| [Vy - Spor](https://spor.vy.no/)                                         |     ✔️     |      ✔️      |      ✔️       | [GitHub](https://github.com/nsbno/spor) |
+| [Vy - Spor](https://spor.vy.no/)                                               |     ✔️     |      ✔️      |      ✔️       | [GitHub](https://github.com/nsbno/spor)                       |
+| [DIPS - Arena Mobil](https://www.dips.com/losninger/arena-mobil)               |     ✔️     |              |               | [GitHub](https://github.com/DIPSAS/DIPS.Mobile.UI)            |
 
 ### Notes
 
