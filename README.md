@@ -24,6 +24,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Designsystemet](https://www.designsystemet.no/)                               |     ✔️     |              |      ✔️       |      [Github](https://github.com/digdir/designsystem)       |
 | [DFØ](https://komponenter.dfo.no/)                                             |     ✔️     |              |      ✔️       |                                                               |
 | [DHIS2/UiO](https://ui.dhis2.nu/)                                              |     ✔️     |              |               |                                                               |
+| [DIPS - Arena Mobil](https://www.dips.com/losninger/arena-mobil)               |     ✔️     |              |               | [GitHub](https://github.com/DIPSAS/DIPS.Mobile.UI)            |
 | [DNB Eufemia](https://eufemia.dnb.no/)                                         |     ✔️     |              |      ✔️       |      [Github](https://github.com/dnbexperience/eufemia)       |
 | [Domstolenes Designsystem - Elsa ](https://design.domstol.no/)                 |     ✔️     |      ✔️      |      ✔️       |       [Github](https://github.com/domstolene/designsystem)     |
 | [Ducky Design System - Plumage](https://plumage.ducky.eco/)                    |     ✔️     |              |      ✔️       |      [Github](https://github.com/DuckyTeam/Plumage)           |
@@ -66,7 +67,6 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Vestfold og Telemark Fylkeskommune](https://komponenter.vtfk.no/)             |     ✔️     |              |              |  [Github](https://github.com/vtfk/component-library)            |
 | [Vipps](https://brand.vipps.no//)                                              |            |      ✔️      |      ✔️       |                                                               |
 | [Vy - Spor](https://spor.vy.no/)                                               |     ✔️     |      ✔️      |      ✔️       | [GitHub](https://github.com/nsbno/spor)                       |
-| [DIPS - Arena Mobil](https://www.dips.com/losninger/arena-mobil)               |     ✔️     |              |               | [GitHub](https://github.com/DIPSAS/DIPS.Mobile.UI)            |
 
 ### Notes
 
