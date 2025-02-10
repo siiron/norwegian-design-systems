@@ -20,7 +20,8 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 |--------------------------------------------------------------------------------|:----------:|:------------:|:-------------:|:-------------------------------------------------------------:|
 | [Altinn Designsystem](https://designsystemet.no)                     |     ✔️     |              |               |  [Github](https://github.com/Altinn/altinn-design-system/)    |
 | [Arbeidstilsynet](https://design.arbeidstilsynet.no/)                          |     ✔️     |              |               |                                                               |
-| [Deichman](https://digibib.github.io/deichman-ui/?path=/story/base--about)                                         |     ✔️     |              |               | [GitHub](https://github.com/digibib/deichman-ui) |
+| [Bane NOR Designsystem](https://designsystem.banenor.no/)                      |     ✔️     |      ✔️     |       ✔️      |                                                               |
+| [Deichman](https://digibib.github.io/deichman-ui/?path=/story/base--about)     |     ✔️     |              |               | [GitHub](https://github.com/digibib/deichman-ui) |
 | [Designsystemet](https://www.designsystemet.no/)                               |     ✔️     |              |      ✔️       |      [Github](https://github.com/digdir/designsystem)       |
 | [DFØ](https://komponenter.dfo.no/)                                             |     ✔️     |              |      ✔️       |                                                               |
 | [DHIS2/UiO](https://ui.dhis2.nu/)                                              |     ✔️     |              |               |                                                               |
