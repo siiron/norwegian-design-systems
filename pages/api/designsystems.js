@@ -25,6 +25,19 @@ export const designsystems = [
         ]
     },
     {
+      name: "Plumage Design System",
+      company: "Ducky",
+      url: "https://plumage.ducky.eco/",
+      repo: {
+        name: "Github",
+        url: "https://github.com/DuckyTeam/Plumage"
+      },
+      contains: [
+        "components",
+        "designers-kit"
+      ]
+    },
+    {
         name: "Elsa - domstolenes designsystem",
         company: "Norges Domstoler",
         url: "https://design.domstol.no/",
@@ -33,6 +46,16 @@ export const designsystems = [
             "voice-and-tone",
             "designers-kit"
         ]
+    },
+    {
+      name: "Elvia Design System",
+      company: "Elvia",
+      url: "https://design.elvia.io/",
+      contains: [
+        "components",
+        "voice-and-tone",
+        "designers-kit"
+      ]
     },
     {
         name: "Entur Designsystem",
@@ -59,9 +82,13 @@ export const designsystems = [
         ]
     },
     {
-        name: "Finnivers",
+        name: "Fabric Design System",
         company: "Finn.no",
-        url: "https://finnivers.finn.no/",
+        url: "https://www.fabric-ds.io/",
+        repo: {
+          name: "Github",
+          url: "https://github.com/fabric-ds/"
+        },
         contains: [
             "components",
             "voice-and-tone",
@@ -69,9 +96,17 @@ export const designsystems = [
         ]
     },
     {
+      name: "FNSP Designsystem",
+      company: "Felles nettløsning for spesialisthelsetjenesten",
+      url: "https://design.fnsp.no/#/intro",
+      contains: [
+        "components"
+      ]
+    },
+    {
         name: "Hedwig",
         company: "Posten/Bring",
-        url: "https://hedwig-docs.herokuapp.com/",
+        url: "https://hedwig.posten.no/",
         repo: {
             name: "Github",
             url: "https://github.com/bring/hedwig"
@@ -83,13 +118,13 @@ export const designsystems = [
         ]
     },
     {
-        name: "Innovasjon Norge Brand",
-        company: "Innovasjon Norge",
-        url: "https://company-139306.frontify.com/d/YokG7g2Ch3dy/brand",
-        contains: [
-            "components",
-            "designers-kit"
-        ]
+      name: "If Design system",
+      company: "If",
+      url: "https://design.if.eu/",
+      contains: [
+        "components",
+        "designers-kit"
+      ]
     },
     {
         name: "Jøkul Designsystem",
@@ -108,11 +143,7 @@ export const designsystems = [
     {
         name: "Triton Design System",
         company: "Kongsberg Digital",
-        url: "https://designsystem.kognif.ai/",
-        repo: {
-            name: "Github",
-            url: "https://github.com/fremtind/jokul"
-        },
+        url: "https://componentlib-docs.azurewebsites.net/",
         contains: [
             "components"
         ]
@@ -149,9 +180,9 @@ export const designsystems = [
         ]
     },
     {
-        name: "Nav Designsystem",
-        company: "Nav Kommune",
-        url: "https://design.nav.no/",
+        name: "Aksel - Nav Designsystem",
+        company: "Nav",
+        url: "https://aksel.nav.no/",
         repo: {
             name: "Github",
             url: "https://github.com/navikt/nav-frontend-moduler"
@@ -178,6 +209,19 @@ export const designsystems = [
         contains: [
             "designers-kit"
         ]
+    },
+    {
+      name: "OpenBridge Design system",
+      company: "Ocean Industries Concept Lab",
+      url: "https://www.openbridge.no/",
+      repo: {
+        name: "Gitlab",
+        url: "https://gitlab.com/openbridge/openbridge-web-components"
+      },
+      contains: [
+        "components",
+        "designers-kit"
+      ]
     },
     {
         name: "Origo",

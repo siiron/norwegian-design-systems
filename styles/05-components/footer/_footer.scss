@@ -1,0 +1,24 @@
+.nds-footer {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 46rem;
+  padding: 2rem 0;
+  position: relative;
+}
+
+.nds-footer a {
+  align-items: center;
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+  text-decoration: underline;
+  text-decoration-color: #67d0a1;
+}
+
+.nds-footer a:hover {
+  color: #67d0a1;
+  text-decoration: none;
+}

@@ -1,0 +1,68 @@
+{
+    "extends": [
+        "stylelint-config-sass-guidelines",
+        "stylelint-config-prettier",
+        "stylelint-prettier/recommended"
+    ],
+    "defaultSeverity": "error",
+    "rules": {
+        "at-rule-name-space-after": "always",
+        "block-no-empty": true,
+        "block-opening-brace-space-before": "always",
+        "color-hex-length": "long",
+        "color-no-invalid-hex": true,
+        "comment-no-empty": true,
+        "declaration-block-no-duplicate-properties": [
+            true,
+            {
+                "ignore": ["consecutive-duplicates-with-different-values"]
+            }
+        ],
+        "declaration-block-no-shorthand-property-overrides": true,
+        "font-family-no-duplicate-names": true,
+        "font-family-no-missing-generic-family-keyword": true,
+        "function-calc-no-unspaced-operator": true,
+        "function-linear-gradient-no-nonstandard-direction": true,
+        "keyframe-declaration-no-important": true,
+        "max-nesting-depth": 4,
+        "media-feature-name-no-unknown": true,
+        "no-duplicate-at-import-rules": true,
+        "no-duplicate-selectors": true,
+        "no-empty-source": true,
+        "no-extra-semicolons": true,
+        "no-invalid-double-slash-comments": true,
+        "order/order": [
+            [
+                "custom-properties",
+                "dollar-variables",
+                {
+                    "type": "at-rule",
+                    "name": "extend"
+                },
+                {
+                    "type": "at-rule",
+                    "name": "include",
+                    "hasBlock": false
+                },
+                "declarations",
+                "rules"
+            ]
+        ],
+        "property-no-unknown": true,
+        "selector-class-pattern": [
+            "^((nds-)([a-z]?[a-zA-Z0-9]+)*(__[a-z0-9]?[a-zA-Z0-9]+)*?(--[a-zA-Z0-9]+)*?)$",
+            {
+                "message": "Please make sure the selector follows the following pattern: https://regexr.com/79hc0"
+            }
+        ],
+        "scss/at-mixin-pattern": "^[a-z][a-zA-Z0-9]+$",
+        "scss/at-function-pattern": "^[a-z][a-zA-Z0-9]+$",
+        "scss/dollar-variable-pattern": "^[_]?[a-zA-Z]+([a-zA-Z0-9-]+[a-zA-Z0-9]+)?$",
+        "selector-max-compound-selectors": 4,
+        "selector-pseudo-class-no-unknown": true,
+        "selector-pseudo-element-no-unknown": true,
+        "selector-type-no-unknown": true,
+        "string-no-newline": true,
+        "unit-no-unknown": true
+    }
+}

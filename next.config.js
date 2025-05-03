@@ -5,6 +5,10 @@ const nextConfig = {
     locales: ["en"],
     defaultLocale: "en",
   },
+  sassOptions: {
+    charset: true,
+    sourceMap: true
+  },
 }
 
 module.exports = nextConfig

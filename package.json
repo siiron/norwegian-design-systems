@@ -1,21 +1,33 @@
 {
-  "name": "norwegian-design-systems",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "next": "13.2.1",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-icons": "4.7.1"
-  },
-  "devDependencies": {
-    "eslint": "8.34.0",
-    "eslint-config-next": "13.2.1"
-  }
+    "name": "norwegian-design-systems",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "next": "13.2.3",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "react-icons": "4.8.0",
+        "sanitize.scss": "^1.0.0"
+    },
+    "devDependencies": {
+        "editorconfig": "^1.0.2",
+        "eslint-config-next": "13.2.3",
+        "eslint-config-prettier": "^8.6.0",
+        "eslint-config-stylelint": "^18.0.0",
+        "eslint-plugin-prettier": "^4.2.1",
+        "eslint": "8.35.0",
+        "sass-mq": "^6.0.0",
+        "sass": "^1.58.3",
+        "stylelint-config-prettier": "^9.0.5",
+        "stylelint-config-sass-guidelines": "^9.0.1",
+        "stylelint-config-standard": "^29.0.0",
+        "stylelint-prettier": "^3.0.0",
+        "stylelint": "^14.16.1"
+    }
 }

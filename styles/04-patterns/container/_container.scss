@@ -1,0 +1,26 @@
+.nds-container {
+  align-content: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: 0;
+  position: relative;
+  padding-inline: 12px;
+  box-sizing: content-box;
+  margin: auto;
+  width: calc(100% - 24px);
+
+  .bn-container {
+    padding-inline: 0;
+    width: 100%;
+  }
+
+  *:not(.bn-container) {
+    box-sizing: border-box;
+  }
+
+  @media (320px <= width) {
+    padding-inline: 24px;
+    width: calc(100% - 48px);
+  }
+}
