@@ -39,6 +39,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Helsenorge](https://helsenorge.design/)                                       |     ✔️     |              |                |     [Github](https://github.com/helsenorge/designsystem)      |
 | [If Design system ](https://design.if.eu/)                 |     ✔️     |              |                |                                                               |
 | [IMDi Designsystem ](https://www.imdi.no/om-imdi/designsystem/)                                    |     ✔️     |              |      ✔️       |                                                               |
+| [Intility - Bifrost](https://bifrost.intility.com/)                            |     ✔️     |              |      ✔️       |                                                               |
 | [Kartverket](https://design.kartverket.no/)                                    |     ✔️     |              |               |                                                               |
 | [Lillestrøm Kommune Designsystem](https://design.lillestrom.kommune.no/guide/) |     ✔️     |      ✔️      |               |                                                               |
 | [Lånekassen](https://calm-hill-068549003.azurestaticapps.net/)                 |     ✔️     |              |               |                                                               |
