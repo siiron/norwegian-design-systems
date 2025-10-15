@@ -52,7 +52,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Online (Linjeforening ved NTNU)](https://wiki.online.ntnu.no/info/innsikt-og-interface/grafisk-profil/)              |     ✔️     |              |               |                                                               |
 | [Norsk Tipping Designguide](https://design.norsk-tipping.dev/) | | | ✔️ | |
 | [NVE - Noregs vassdrags- og energidirektorat](https://designsystem.nve.no/)  |     ✔️     |              |      ✔️       | [Github](https://github.com/NVE/Designsystem)                 |
-| [OpenBridge Design system](https://www.openbridge.no/)                         |     ✔️     |              |      ✔️      | [Gitlab](https://gitlab.com/openbridge/openbridge-web-components) |
+| [OpenBridge Design system](https://www.openbridge.no/)                         |     ✔️     |              |      ✔️      | [Gitlab](https://github.com/Ocean-Industries-Concept-Lab/openbridge-webcomponents) |
 | [Oslo Origo - Punkt](https://punkt.oslo.kommune.no/)                           |     ✔️     |               |               | [Github](https://github.com/oslokommune/punkt/)             |
 | [Oslo Kommune - Oslo Designsystem](https://designsystem.oslo.kommune.no/)      |     ✔️     |               |               |                                                               |
 | [NRK - Origo](https://static.nrk.no/origo/latest/index.html)                   |     ✔️     |              |      ✔️       |       [Github](https://github.com/nrkno/origo)                |
