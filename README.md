@@ -60,7 +60,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [PostenBring - Hedwig](https://hedwig.posten.no/)                              |     ✔️     |      ✔️      |      ✔️       |           [Github](https://github.com/bring/hedwig-design-system) |
 | [Ruter Design System](https://brand.ruter.no)                                  |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Sikt](https://designsystem.sikt.no/)                                          |     ✔️     |             |       ✔️       | [Gitlab](https://gitlab.sikt.no/designsystem/sds-komponentbibliotek)  |
-| [Skatteetaten](https://www.skatteetaten.no/stilogtone/designsystemet/)            |     ✔️     |      ✔️      |      ✔️       | [Github](https://github.com/Skatteetaten/frontend-components) |
+| [Skatteetaten](https://www.skatteetaten.no/stilogtone/designsystemet/)            |     ✔️     |      ✔️      |      ✔️       | [Github](https://github.com/Skatteetaten/designsystemet) |
 | [SpareBank 1 Designsystem](https://design.sparebank1.no/)                      |     ✔️     |      ✔️      |      ✔️       |   [Github](https://github.com/SpareBank1/designsystem)        |
 | [Statistisk Sentralbyrå](https://design.ssb.no/)                               |     ✔️     |              |              | [Github](https://github.com/statisticsnorway/ssb-component-library)  |
 | [Statsforvalteren](https://bak.statsforvalteren.no/)                           |     ✔️     |              |              |                                                                 |
