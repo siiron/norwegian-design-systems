@@ -52,7 +52,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [Online (Linjeforening ved NTNU)](https://wiki.online.ntnu.no/info/innsikt-og-interface/grafisk-profil/)              |     ✔️     |              |               |                                                               |
 | [Norsk Tipping Designguide](https://design.norsk-tipping.dev/) | | | ✔️ | |
 | [NVE - Noregs vassdrags- og energidirektorat](https://designsystem.nve.no/)  |     ✔️     |              |      ✔️       | [Github](https://github.com/NVE/Designsystem)                 |
-| [OpenBridge Design system](https://www.openbridge.no/)                         |     ✔️     |              |      ✔️      | [Gitlab](https://gitlab.com/openbridge/openbridge-web-components) |
+| [OpenBridge Design system](https://www.openbridge.no/)                         |     ✔️     |              |      ✔️      | [Gitlab](https://github.com/Ocean-Industries-Concept-Lab/openbridge-webcomponents) |
 | [Oslo Origo - Punkt](https://punkt.oslo.kommune.no/)                           |     ✔️     |               |               | [Github](https://github.com/oslokommune/punkt/)             |
 | [Oslo Kommune - Oslo Designsystem](https://designsystem.oslo.kommune.no/)      |     ✔️     |               |               |                                                               |
 | [NRK - Origo](https://static.nrk.no/origo/latest/index.html)                   |     ✔️     |              |      ✔️       |       [Github](https://github.com/nrkno/origo)                |
@@ -60,7 +60,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [PostenBring - Hedwig](https://hedwig.posten.no/)                              |     ✔️     |      ✔️      |      ✔️       |           [Github](https://github.com/bring/hedwig-design-system) |
 | [Ruter Design System](https://brand.ruter.no)                                  |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Sikt](https://designsystem.sikt.no/)                                          |     ✔️     |             |       ✔️       | [Gitlab](https://gitlab.sikt.no/designsystem/sds-komponentbibliotek)  |
-| [Skatteetaten](https://www.skatteetaten.no/stilogtone/designsystemet/)            |     ✔️     |      ✔️      |      ✔️       | [Github](https://github.com/Skatteetaten/frontend-components) |
+| [Skatteetaten](https://www.skatteetaten.no/stilogtone/designsystemet/)            |     ✔️     |      ✔️      |      ✔️       | [Github](https://github.com/Skatteetaten/designsystemet) |
 | [SpareBank 1 Designsystem](https://design.sparebank1.no/)                      |     ✔️     |      ✔️      |      ✔️       |   [Github](https://github.com/SpareBank1/designsystem)        |
 | [Statistisk Sentralbyrå](https://design.ssb.no/)                               |     ✔️     |              |              | [Github](https://github.com/statisticsnorway/ssb-component-library)  |
 | [Statsforvalteren](https://bak.statsforvalteren.no/)                           |     ✔️     |              |              |                                                                 |
