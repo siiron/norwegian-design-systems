@@ -29,6 +29,7 @@ If you're missing one, please make a [pull request](https://github.com/siiron/no
 | [DNB Eufemia](https://eufemia.dnb.no/)                                         | DNB        |     ✔️     |              |      ✔️       |      [Github](https://github.com/dnbexperience/eufemia)       |
 | [Domstolenes Designsystem - Elsa ](https://design.domstol.no/)                 | Domstolene |     ✔️     |      ✔️      |      ✔️       |       [Github](https://github.com/domstolene/designsystem)     |
 | [Ducky Design System - Plumage](https://plumage.ducky.eco/)                    | Ducky      |     ✔️     |              |      ✔️       |      [Github](https://github.com/DuckyTeam/Plumage)           |
+| [Elhub Design System](https://elhub.github.io/designsystem/)             | Elhub      |     ✔️     |              |               |      [Github](https://github.com/elhub/designsystem)          |
 | [Elvia Design system ](https://design.elvia.io/)                               | Elvia      |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Entur Designsystem ](https://design.entur.org/)                               | Entur      |     ✔️     |      ✔️      |      ✔️       |                                                               |
 | [Equinor Design System](https://eds.equinor.com/)                              | Equinor    |     ✔️     |      ✔️      |      ✔️       |      [Github](https://github.com/equinor/design-system)       |
